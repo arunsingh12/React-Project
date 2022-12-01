@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+
+.gems_head{
+    padding-top: 70px;
+    padding-bottom: 30px;
+  }
+  .gems_coltrol{
+   color: black;
+   padding: 0 90px;
+   border: none;
+   background-color: #fff;
+  }
+  .active{
+    font-weight: bold;
+  }
+  .gems_line{
+    width: 80%;
+  }
+  
+  .gems_img{
+    height: 350px;
+  }
+  .gems_img img{
+    width: 100%;
+    height: 100%;
+  }

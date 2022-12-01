@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+
+.empty_content{
+    padding-top: 80px;
+}
+.empty_image{
+    height: 200px;
+}
+.empty_image img{
+    height: 100%;
+}
+.shop_icon{
+    padding: 9.5px;
+    background-color: #37a54f;
+    color: #fff;
+}
+.shop_btn{
+    background-color: #37a54f;
+    border: none;
+    padding: 8px 10px;
+    color: #fff;
+    font-weight: 400;
+}

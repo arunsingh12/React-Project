@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+
+.row_boder{
+    border: 1px solid rgb(182, 181, 181);
+  }
+  .form_input{
+    background-color: #fff;
+    border: none;
+    border-bottom: 1px solid black
+  }
+  .form_btn{
+    padding: 5px 62px;
+    background-color: black;
+    color: #fff;
+  }
+  .follow_box{
+    padding-top: 100px;
+    padding-bottom: 10px;
+  }
+  .follow_link{
+    font-size: 50px;
+    color: black;
+  }
